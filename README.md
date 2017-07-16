@@ -1,5 +1,5 @@
 # tesetto
-dumb c test single header library
+Dumb C Single Header Unit Test Library 
 
 ## usage
 
@@ -26,3 +26,5 @@ int main() {
   finish_tests();
 }
 ```
+
+for more information please read the header file, it's less the 200 lines of code.
