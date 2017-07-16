@@ -27,4 +27,4 @@ int main() {
 }
 ```
 
-for more information please read the header file, it's less the 200 lines of code.
+for more information please read the header file, it's less than 200 lines of code.
